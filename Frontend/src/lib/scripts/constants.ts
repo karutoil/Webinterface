@@ -1,4 +1,4 @@
-export const BASE_PATH = "http://panel.karutoil.site:8888/"
+export const BASE_PATH = "http://panel.karutoil.site:8888"
 
 export function get(path: string) {
 
